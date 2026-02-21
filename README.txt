@@ -1,5 +1,5 @@
 X--------------------------------------------------------------------------------------------------------X
-Link para Github: https://github.com/SoftestCat/Lines-of-Action/
+Link para Github: https://github.com/CatLover113/Lines-of-Action
 
 
 Lines of Action é um jogo de tabuleiro. Cada jogador tem 12 peças, que podem ser de cor branca ou preta. No código (ou representações textuais), as peças são geralmente denotadas como 'W' (White) e 'B' (Black).
@@ -68,3 +68,4 @@ Para jogar o jogo, é só seguir as instruções que o jogo te pede para fazer o
 
 
 Feito por: Hugo Duarte de Sousa
+
