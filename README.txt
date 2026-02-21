@@ -1,6 +1,7 @@
 X--------------------------------------------------------------------------------------------------------X
 Link para Github: https://github.com/SoftestCat/Lines-of-Action/
 
+
 Lines of Action é um jogo de tabuleiro. Cada jogador tem 12 peças, que podem ser de cor branca ou preta. No código (ou representações textuais), as peças são geralmente denotadas como 'W' (White) e 'B' (Black).
 
 • Objetivo do jogo:
@@ -22,7 +23,7 @@ O branco ganha nesta posição, pois tem toas as suas peças ligadas entre si
 Considere esta posição:
 - WHITE TO MOVE
 
-	B B • • • • • •			  B B • • • • • •
+	B B • • • • • •			  B B • • • • • •					
 	W • B B B • • •		W 	  • • B B B • • •
 	• • • • • B • •  (1,0) -> (4,0)   • • • • • B • •	
 	• • • • W • • • ----------------> • • • • W • • •
